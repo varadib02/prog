@@ -7,6 +7,6 @@ for i in range(10):
 szclone.append=sz
 
 print(szclone)
-for i in range(len(hiba)):
-    del szclone[hiba[i]]
+for i in range(len(sz)):
+    if sz[i]<0:del szclone[i]
 print(sz)
