@@ -15,7 +15,8 @@ for i in range(len(ljegyek)):
         if(ljegyek.index(ljegyek[i])==(j)):
             lmenyi[j]=lmenyi[j]+1
 
+print("jegy statisztika:")
 for i in range(len(lmenyi)):
-    print(f"{i+1} jegy: {lmenyi[i]}")
+    print(f"\t{i+1} jegy: {lmenyi[i]}db")
 
-print(f"Legtöbb jegy: {lmenyi.index(max(lmenyi))+1}  {max(lmenyi)}db")
+print(f"A legtöbb jegy születt: {lmenyi.index(max(lmenyi))+1} - {max(lmenyi)}db")
