@@ -16,6 +16,6 @@ for i in range(len(ljegyek)):
             lmenyi[j]=lmenyi[j]+1
 
 for i in range(len(lmenyi)):
-    print(f"{i} jegy: {lmenyi[i]}")
+    print(f"{i+1} jegy: {lmenyi[i]}")
 
-print(f"Legtöbb jegy: {lmenyi.index(max(lmenyi))}  {max(lmenyi)}db")
+print(f"Legtöbb jegy: {lmenyi.index(max(lmenyi))+1}  {max(lmenyi)}db")
