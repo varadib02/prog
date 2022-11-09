@@ -9,4 +9,4 @@ szclone.append=sz
 print(szclone)
 for i in range(len(sz)):
     if sz[i]<0:del szclone[i]
-print(sz)
+print(szclone)
