@@ -2,11 +2,13 @@ import random
 
 ljegyek=[]
 letszam=int(input("Osztály létszám: "))
-lmenyi=[0,0,0,0,0]
+lmenyi=[]
 
 for i in range(letszam):
     ljegyek.append(random.randint(1,5))
 print(f"Átlag: {sum(ljegyek)/letszam}")
+
+for i in range(5): lmenyi.append(0)
 
 for i in range(len(ljegyek)):
     for j in range(1,5,1):
