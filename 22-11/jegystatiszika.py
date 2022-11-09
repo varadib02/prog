@@ -6,7 +6,7 @@ lmenyi=[]
 
 for i in range(letszam):
     ljegyek.append(random.randint(1,5))
-print(f"Átlag: {sum(ljegyek)/letszam}")
+print(f"Átlag: {round(sum(ljegyek)/letszam,2)}")
 
 for i in range(5): lmenyi.append(0)
 
