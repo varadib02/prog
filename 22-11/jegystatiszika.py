@@ -18,4 +18,4 @@ for i in range(len(ljegyek)):
 for i in range(len(lmenyi)):
     print(f"{i} jegy: {lmenyi[i]}")
 
-print(f"Legtöbb: {lmenyi.index(max(lmenyi))} jegy {max(lmenyi)}")
+print(f"Legtöbb jegy: {lmenyi.index(max(lmenyi))}  {max(lmenyi)}db")
