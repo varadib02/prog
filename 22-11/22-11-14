@@ -16,8 +16,5 @@ for i in range(len(list)-1):
     if(((list[i]+1)==list[i+1])or((list[i]-1)==list[i-1])):
         print("Van egymást követő szám")
         break
-    elif(len(list)==list[i+1]):
+    elif(list[-1]==list[i+1]):
         print("Nincs")
-
-
-
