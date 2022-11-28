@@ -13,5 +13,5 @@ print(lszoveg)
 #átlag
 print(round(sum(lszam)/len(lszam),2))
 #ver2
-import statistics
+import statistics 
 print(statistics.mean(lszam))
