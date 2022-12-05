@@ -5,8 +5,9 @@ mondat=be.split(".")
 lszam=[]
 
 print(f"1. feladat: Karakterek száma {len(be)}")
+print(szo)
 print(f"2. feladat: Szavak száma {len(szo)}")
-print(f"3. feladat: Mondatok száma {len(mondat)}")
+print(f"3. feladat: Mondatok száma {len(mondat-1)}")
 
 for i in range(len(szo)):
     x=szo[i]
