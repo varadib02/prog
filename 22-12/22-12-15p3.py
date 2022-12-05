@@ -4,7 +4,9 @@ def be():
 def ism():
     x=int(input("Hányszor ismétled meg?:"))
     return x
+def ismet():
+    x=be()
+    for i in range(ism()):
+        print(x)
 
-sz=be()
-for i in range(ism()):
-    print(sz)
+ismet()
