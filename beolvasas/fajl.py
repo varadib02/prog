@@ -12,7 +12,7 @@ lszam=[]
 for i in fajl:
     i=i.rstrip()
     lszam.append(i)
-    print(i.rstrip())
+    print(i)
 
 print(lszam)
 #egymasmelé
