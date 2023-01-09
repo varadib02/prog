@@ -2,18 +2,22 @@
 def be():
     a=int(input())
     b=int(input())
-    terulet(a,b)
+    print(terulet(a,b))
+    print(kerulet(a,b))
+
 
 def terulet(a,b):
     T=a*b
-    K=2*(a+b)
-    kiiars(T,K)
+    return T
 
-def kiiars(T,K):
-    print(f"Terület: {T}")
-    print(f"Kerület: {K}")
+def kerulet(a,b):
+    K=2*(a+b)
+    return K
+
+
 
 
 be()
+
 
 
