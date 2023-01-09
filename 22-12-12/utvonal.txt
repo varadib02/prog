@@ -1,145 +1,145 @@
 nev	hossz	allomas
-Anna-ligeti tanösvény 	2	8
-Apródok útja tanösvény 	7,2	8
-Aqua Colun tanösvény 	3,5	5
-Árpád fejedelem tanösvény 	3	11
-Ártéri tanösvény 	0,5	4
-Babócsai Basa-kert tanösvény 	1	2
-Baradla tanösvény 	7,5	18
-Bárányfoki tanösvény 	2,1	6
-Báránypirosító tanösvény 	1,6	5
-Barát-réti tanösvény 	6,5	4
-Barcsi Borókás tanösvény 	2	4
-Bazaltorgonák tanösvény 	4	7
-Bél-kõi tanösvény 	5	7
-Bihari-sík tanösvény 	7,2	20
-Bodrogzugi vízitúra tanösvény 	5	3
-Bódva-völgyi tanösvény 	2,5	7
-Boróka tanösvény 	2,9	5
-Boros-Dráva tanösvény 	1	2
-Boroszlán tanösvény 	7	8
-Boszorkány-kõ geológiai tanösvény 	0,4	13
-Bõköz tanösvény 	4	6
-Bölömbika tanösvény 	3	6
-Búbos vöcsök tanösvény 	1,5	13
-Buda-hegyi tanösvény	2	8
-Cankó tanösvény 	1	9
-Cégénydányádi Kastélypark tanösvény 	1,5	19
-Chernel-kerti tanösvény 	0,5	0
-Cserépfalui Ördögtorony tanösvény 	10	20
-Csipak tanösvény 	3	9
-Csodarét tanösvény 	4	10
-Csomoros-sziget tanösvény 	0,7	10
-Csörgõalma tanösvény 	0	1
-Denevér tanösvény 	5	13
-Erdei tanösvény 	2,7	6
-Eresztvényi kõbányák 	2,5	6
-Erzsébet-sziget tanösvény 	3	2
-Fekete harkály tanösvény 	5	13
-Felsõszeri tanösvény 	1,7	6
-Fóti-Somlyó tanösvény 	3,5	11
-Földtani tanösvény 	2	13
-Fürge cselle tanösvény 	3,2	8
-Fürkész ösvény 	2	12
-Górési tanösvény 	11	5
-Halásztelki tanösvény 	3	10
-Hankovszky-liget tanösvény 	0,35	8
-Hany Istók tanösvény 	5	7
-Haraszt-hegyi tanösvény 	3,5	7
-Holt-Rába tanösvény 	6	5
-Ilona-völgyi geológiai tanösvény 	6,5	9
-Ipolytarnóc - Biológiai tanösvény 	6	13
-Ipolytarnóc - Borókás-árok geológiai tanösvény 	0,8	7
-Ipolytarnóc - Kõszikla tanösvény 	0,9	20
-Ipolytarnóc - Kõzetpark 	0,7	20
-Jági tanösvény 	3,5	6
-Jakab-hegyi tanösvény 	8	10
-Jávorkúti tanösvény 	3	4
-Jónásrészi tanösvény 	5	11
-Káli-medence túrahálózat 	25	79
-Kamon-kõ tanösvény 	6	9
-Kékbegy tanösvény 	0,21	3
-Kékmoszat tanösvény 	2,4	12
-Kesznyéteni TK agrár-környezetgazdálkodási tanösvény 	4,8	6
-Kígyósi tanösvény 	5	4
-Kismély-völgyi tanösvény 	1	5
-Kisvátyoni tanösvény 	8	6
-Kitaibel tanösvény 	3	9
-Kontyvirág tanösvény 	2,4	6
-Kormorános-erdõ tanösvény 	2	6
-Kosbor tanösvény 	1,7	5
-Kõ-közi tanösvény 	0,8	5
-Kõpark tanösvény 	0,2	0
-Körtike tanösvény 	6,2	11
-Kövi benge tanösvény 	0,3	20
-Lóczy gejzír-sétaút 	18	15
-Madarak és fák útja 	1	5
-Madárvédelmi tanösvény 	0,3	8
-Mágor-pusztai tanösvény 	0,5	5
-Magyar-bányai kõpark 	0,15	13
-Mérus-erdõ tanösvény 	1	1
-Millenniumi természetismereti és erdészeti bemutató sétaút 	2,5	20
-Nagymezõ - Kis-kõháti-zsomboly tanösvény 	3	3
-Nagypartosi tanösvény 	2,5	6
-Nagy-Szénás tanösvény 	2,1	7
-Nyéki-Holt-Duna tanösvény 	2,2	6
-Óbányai Pro Silva tanösvény 	2	5
-Olasz-kapui tanösvény 	7,2	6
-Orfûi Vízfõ tanösvény 	1	4
-Öregtavi tanösvény 	25	18
-Õrtilosi Dráva-ártér tanösvény 	2	0
-Paksi Ürge-mezõ tanösvény 	4	11
-Pálfája tanösvény 	1,8	10
-Páskom legelõ tanösvény 	3	6
-Pele apó ösvénye 	8,5	38
-Pele körút 	0,8	10
-Pimpó tanösvény 	5,8	6
-Poszáta tanösvény 	2	8
-Ravazd-Sokorópátkai tanösvény 	15	3
-Réce tanösvény 	1	5
-Réhelyi tanösvény 	1,5	8
-Rejtek - Répáshuta tanösvény 	9	12
-Rekettye tanösvény 	2,3	6
-Rezgõnyár tanösvény 	0,3	7
-Ság-hegy élõvilága 	0,2	13
-Ság-hegyi geológiai tanösvény 	1	18
-Salgó - Somoskõ vára tanösvény 	3,5	6
-Sárgaliliom tanösvény 	6,2	11
-Sár-hegyi természetismereti tanösvény 	7	12
-Sas-hegy tanösvény 	0,85	7
-Sáskajárás sétaút 	0,8	8
-Selyem-réti tanösvény 	1,5	6
-Sirály tanösvény 	2	5
-Sóvirág tanösvény 	0,5	0
-Sötét-völgyi tanösvény 	4,3	9
-Strázsa-hegyi tanösvény 	1,2	7
-Szádvár tanösvény 	4,5	12
-Szalajka-völgyi természetvédelmi bemutatóösvény 	4,2	10
-Szala menti tanösvény 	3,8	9
-Szálkahalmi tanösvény 	1,1	5
-Szarvaskõi geológiai tanösvény 	8,8	11
-Szeremlei-Holt-Duna tanösvény 	2,4	6
-Szigetközi Ökoturisztikai Bemutató Útvonal 	18	12
-Sziki õszirózsa tanösvény 	4	10
-Szilvás-kõi geológiai tanösvény 	3,5	12
-Szinva tanösvény 	4	6
-Szomoróczi tanösvény 	3	6
-Tanösvény a Turjánban 	1,2	9
-Tarpai Szõlõ-hegy tanösvény 	3	6
-Templom-hegyi tanösvény 	2	6
-Pannonhalmi arborétum	1,5	3
-Tisza-tavi vízi sétány és tanösvény 	1,5	4
-Tohonya-Kuriszlán tanösvény II. útvonal 	9	25
-Tohonya-Kuriszlán tanösvény I. útvonal 	4,5	12
-Tõzike tanösvény 	3	5
-Tüskés-réti tanösvény 	1	4
-Újmohácsi tanösvény 	3,1	7
-Üde rétek tanösvény 	3	5
-Várdomb tanösvény 	0,3	6
-Vár-hegyi tanösvény 	10	6
-Vártúra ösvény 	1,2	0
-Vár-völgyi földtani tanösvény 	3	10
-Vasút-oldali túraútvonal 	10	1
-Vizi Rence Túraútvonal 	6	0
-Vöcsök tanösvény 	3,2	7
-Vörös-mocsár tanösvény 	2,5	2
+Anna-ligeti tanÃ¶svÃ©ny 	2	8
+AprÃ³dok Ãºtja tanÃ¶svÃ©ny 	7,2	8
+Aqua Colun tanÃ¶svÃ©ny 	3,5	5
+ÃrpÃ¡d fejedelem tanÃ¶svÃ©ny 	3	11
+ÃrtÃ©ri tanÃ¶svÃ©ny 	0,5	4
+BabÃ³csai Basa-kert tanÃ¶svÃ©ny 	1	2
+Baradla tanÃ¶svÃ©ny 	7,5	18
+BÃ¡rÃ¡nyfoki tanÃ¶svÃ©ny 	2,1	6
+BÃ¡rÃ¡nypirosÃ­tÃ³ tanÃ¶svÃ©ny 	1,6	5
+BarÃ¡t-rÃ©ti tanÃ¶svÃ©ny 	6,5	4
+Barcsi BorÃ³kÃ¡s tanÃ¶svÃ©ny 	2	4
+BazaltorgonÃ¡k tanÃ¶svÃ©ny 	4	7
+BÃ©l-kÅ‘i tanÃ¶svÃ©ny 	5	7
+Bihari-sÃ­k tanÃ¶svÃ©ny 	7,2	20
+Bodrogzugi vÃ­zitÃºra tanÃ¶svÃ©ny 	5	3
+BÃ³dva-vÃ¶lgyi tanÃ¶svÃ©ny 	2,5	7
+BorÃ³ka tanÃ¶svÃ©ny 	2,9	5
+Boros-DrÃ¡va tanÃ¶svÃ©ny 	1	2
+BoroszlÃ¡n tanÃ¶svÃ©ny 	7	8
+BoszorkÃ¡ny-kÅ‘ geolÃ³giai tanÃ¶svÃ©ny 	0,4	13
+BÅ‘kÃ¶z tanÃ¶svÃ©ny 	4	6
+BÃ¶lÃ¶mbika tanÃ¶svÃ©ny 	3	6
+BÃºbos vÃ¶csÃ¶k tanÃ¶svÃ©ny 	1,5	13
+Buda-hegyi tanÃ¶svÃ©ny	2	8
+CankÃ³ tanÃ¶svÃ©ny 	1	9
+CÃ©gÃ©nydÃ¡nyÃ¡di KastÃ©lypark tanÃ¶svÃ©ny 	1,5	19
+Chernel-kerti tanÃ¶svÃ©ny 	0,5	0
+CserÃ©pfalui Ã–rdÃ¶gtorony tanÃ¶svÃ©ny 	10	20
+Csipak tanÃ¶svÃ©ny 	3	9
+CsodarÃ©t tanÃ¶svÃ©ny 	4	10
+Csomoros-sziget tanÃ¶svÃ©ny 	0,7	10
+CsÃ¶rgÅ‘alma tanÃ¶svÃ©ny 	0	1
+DenevÃ©r tanÃ¶svÃ©ny 	5	13
+Erdei tanÃ¶svÃ©ny 	2,7	6
+EresztvÃ©nyi kÅ‘bÃ¡nyÃ¡k 	2,5	6
+ErzsÃ©bet-sziget tanÃ¶svÃ©ny 	3	2
+Fekete harkÃ¡ly tanÃ¶svÃ©ny 	5	13
+FelsÅ‘szeri tanÃ¶svÃ©ny 	1,7	6
+FÃ³ti-SomlyÃ³ tanÃ¶svÃ©ny 	3,5	11
+FÃ¶ldtani tanÃ¶svÃ©ny 	2	13
+FÃ¼rge cselle tanÃ¶svÃ©ny 	3,2	8
+FÃ¼rkÃ©sz Ã¶svÃ©ny 	2	12
+GÃ³rÃ©si tanÃ¶svÃ©ny 	11	5
+HalÃ¡sztelki tanÃ¶svÃ©ny 	3	10
+Hankovszky-liget tanÃ¶svÃ©ny 	0,35	8
+Hany IstÃ³k tanÃ¶svÃ©ny 	5	7
+Haraszt-hegyi tanÃ¶svÃ©ny 	3,5	7
+Holt-RÃ¡ba tanÃ¶svÃ©ny 	6	5
+Ilona-vÃ¶lgyi geolÃ³giai tanÃ¶svÃ©ny 	6,5	9
+IpolytarnÃ³c - BiolÃ³giai tanÃ¶svÃ©ny 	6	13
+IpolytarnÃ³c - BorÃ³kÃ¡s-Ã¡rok geolÃ³giai tanÃ¶svÃ©ny 	0,8	7
+IpolytarnÃ³c - KÅ‘szikla tanÃ¶svÃ©ny 	0,9	20
+IpolytarnÃ³c - KÅ‘zetpark 	0,7	20
+JÃ¡gi tanÃ¶svÃ©ny 	3,5	6
+Jakab-hegyi tanÃ¶svÃ©ny 	8	10
+JÃ¡vorkÃºti tanÃ¶svÃ©ny 	3	4
+JÃ³nÃ¡srÃ©szi tanÃ¶svÃ©ny 	5	11
+KÃ¡li-medence tÃºrahÃ¡lÃ³zat 	25	79
+Kamon-kÅ‘ tanÃ¶svÃ©ny 	6	9
+KÃ©kbegy tanÃ¶svÃ©ny 	0,21	3
+KÃ©kmoszat tanÃ¶svÃ©ny 	2,4	12
+KesznyÃ©teni TK agrÃ¡r-kÃ¶rnyezetgazdÃ¡lkodÃ¡si tanÃ¶svÃ©ny 	4,8	6
+KÃ­gyÃ³si tanÃ¶svÃ©ny 	5	4
+KismÃ©ly-vÃ¶lgyi tanÃ¶svÃ©ny 	1	5
+KisvÃ¡tyoni tanÃ¶svÃ©ny 	8	6
+Kitaibel tanÃ¶svÃ©ny 	3	9
+KontyvirÃ¡g tanÃ¶svÃ©ny 	2,4	6
+KormorÃ¡nos-erdÅ‘ tanÃ¶svÃ©ny 	2	6
+Kosbor tanÃ¶svÃ©ny 	1,7	5
+KÅ‘-kÃ¶zi tanÃ¶svÃ©ny 	0,8	5
+KÅ‘park tanÃ¶svÃ©ny 	0,2	0
+KÃ¶rtike tanÃ¶svÃ©ny 	6,2	11
+KÃ¶vi benge tanÃ¶svÃ©ny 	0,3	20
+LÃ³czy gejzÃ­r-sÃ©taÃºt 	18	15
+Madarak Ã©s fÃ¡k Ãºtja 	1	5
+MadÃ¡rvÃ©delmi tanÃ¶svÃ©ny 	0,3	8
+MÃ¡gor-pusztai tanÃ¶svÃ©ny 	0,5	5
+Magyar-bÃ¡nyai kÅ‘park 	0,15	13
+MÃ©rus-erdÅ‘ tanÃ¶svÃ©ny 	1	1
+Millenniumi termÃ©szetismereti Ã©s erdÃ©szeti bemutatÃ³ sÃ©taÃºt 	2,5	20
+NagymezÅ‘ - Kis-kÅ‘hÃ¡ti-zsomboly tanÃ¶svÃ©ny 	3	3
+Nagypartosi tanÃ¶svÃ©ny 	2,5	6
+Nagy-SzÃ©nÃ¡s tanÃ¶svÃ©ny 	2,1	7
+NyÃ©ki-Holt-Duna tanÃ¶svÃ©ny 	2,2	6
+Ã“bÃ¡nyai Pro Silva tanÃ¶svÃ©ny 	2	5
+Olasz-kapui tanÃ¶svÃ©ny 	7,2	6
+OrfÅ±i VÃ­zfÅ‘ tanÃ¶svÃ©ny 	1	4
+Ã–regtavi tanÃ¶svÃ©ny 	25	18
+Årtilosi DrÃ¡va-Ã¡rtÃ©r tanÃ¶svÃ©ny 	2	0
+Paksi Ãœrge-mezÅ‘ tanÃ¶svÃ©ny 	4	11
+PÃ¡lfÃ¡ja tanÃ¶svÃ©ny 	1,8	10
+PÃ¡skom legelÅ‘ tanÃ¶svÃ©ny 	3	6
+Pele apÃ³ Ã¶svÃ©nye 	8,5	38
+Pele kÃ¶rÃºt 	0,8	10
+PimpÃ³ tanÃ¶svÃ©ny 	5,8	6
+PoszÃ¡ta tanÃ¶svÃ©ny 	2	8
+Ravazd-SokorÃ³pÃ¡tkai tanÃ¶svÃ©ny 	15	3
+RÃ©ce tanÃ¶svÃ©ny 	1	5
+RÃ©helyi tanÃ¶svÃ©ny 	1,5	8
+Rejtek - RÃ©pÃ¡shuta tanÃ¶svÃ©ny 	9	12
+Rekettye tanÃ¶svÃ©ny 	2,3	6
+RezgÅ‘nyÃ¡r tanÃ¶svÃ©ny 	0,3	7
+SÃ¡g-hegy Ã©lÅ‘vilÃ¡ga 	0,2	13
+SÃ¡g-hegyi geolÃ³giai tanÃ¶svÃ©ny 	1	18
+SalgÃ³ - SomoskÅ‘ vÃ¡ra tanÃ¶svÃ©ny 	3,5	6
+SÃ¡rgaliliom tanÃ¶svÃ©ny 	6,2	11
+SÃ¡r-hegyi termÃ©szetismereti tanÃ¶svÃ©ny 	7	12
+Sas-hegy tanÃ¶svÃ©ny 	0,85	7
+SÃ¡skajÃ¡rÃ¡s sÃ©taÃºt 	0,8	8
+Selyem-rÃ©ti tanÃ¶svÃ©ny 	1,5	6
+SirÃ¡ly tanÃ¶svÃ©ny 	2	5
+SÃ³virÃ¡g tanÃ¶svÃ©ny 	0,5	0
+SÃ¶tÃ©t-vÃ¶lgyi tanÃ¶svÃ©ny 	4,3	9
+StrÃ¡zsa-hegyi tanÃ¶svÃ©ny 	1,2	7
+SzÃ¡dvÃ¡r tanÃ¶svÃ©ny 	4,5	12
+Szalajka-vÃ¶lgyi termÃ©szetvÃ©delmi bemutatÃ³Ã¶svÃ©ny 	4,2	10
+Szala menti tanÃ¶svÃ©ny 	3,8	9
+SzÃ¡lkahalmi tanÃ¶svÃ©ny 	1,1	5
+SzarvaskÅ‘i geolÃ³giai tanÃ¶svÃ©ny 	8,8	11
+Szeremlei-Holt-Duna tanÃ¶svÃ©ny 	2,4	6
+SzigetkÃ¶zi Ã–koturisztikai BemutatÃ³ Ãštvonal 	18	12
+Sziki Å‘szirÃ³zsa tanÃ¶svÃ©ny 	4	10
+SzilvÃ¡s-kÅ‘i geolÃ³giai tanÃ¶svÃ©ny 	3,5	12
+Szinva tanÃ¶svÃ©ny 	4	6
+SzomorÃ³czi tanÃ¶svÃ©ny 	3	6
+TanÃ¶svÃ©ny a TurjÃ¡nban 	1,2	9
+Tarpai SzÅ‘lÅ‘-hegy tanÃ¶svÃ©ny 	3	6
+Templom-hegyi tanÃ¶svÃ©ny 	2	6
+Pannonhalmi arborÃ©tum	1,5	3
+Tisza-tavi vÃ­zi sÃ©tÃ¡ny Ã©s tanÃ¶svÃ©ny 	1,5	4
+Tohonya-KuriszlÃ¡n tanÃ¶svÃ©ny II. Ãºtvonal 	9	25
+Tohonya-KuriszlÃ¡n tanÃ¶svÃ©ny I. Ãºtvonal 	4,5	12
+TÅ‘zike tanÃ¶svÃ©ny 	3	5
+TÃ¼skÃ©s-rÃ©ti tanÃ¶svÃ©ny 	1	4
+ÃšjmohÃ¡csi tanÃ¶svÃ©ny 	3,1	7
+Ãœde rÃ©tek tanÃ¶svÃ©ny 	3	5
+VÃ¡rdomb tanÃ¶svÃ©ny 	0,3	6
+VÃ¡r-hegyi tanÃ¶svÃ©ny 	10	6
+VÃ¡rtÃºra Ã¶svÃ©ny 	1,2	0
+VÃ¡r-vÃ¶lgyi fÃ¶ldtani tanÃ¶svÃ©ny 	3	10
+VasÃºt-oldali tÃºraÃºtvonal 	10	1
+Vizi Rence TÃºraÃºtvonal 	6	0
+VÃ¶csÃ¶k tanÃ¶svÃ©ny 	3,2	7
+VÃ¶rÃ¶s-mocsÃ¡r tanÃ¶svÃ©ny 	2,5	2
