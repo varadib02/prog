@@ -1,11 +1,5 @@
 #beírás
-
 f=open("22-01/dolgozok.txt","w")
-
-x=input("Kérek egy nevet: ")
-while x!="":
-    f.writelines(str(x)+"\n")
-    x=input("Kérek egy nevet: ")
 
 #random
 from random import *
@@ -18,3 +12,14 @@ for i in range(10):
 
 
 f.close()
+#olvasas
+f=open("22-01/dolgozok.txt","r")
+jav=[]
+for i in f:
+    x=i.rstrip()
+    jav.append(int(x))
+
+print(f)
+print(jav)
+
+print(sum((jav))/len(jav))
